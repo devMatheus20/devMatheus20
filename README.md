@@ -21,7 +21,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Stats:
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Stats:
 
 <div>
   <a href="https://github.com/devMatheus20"></a>
