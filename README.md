@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Matheus Santos!<br>Welcome to my page.</h1>
+<h1 align="center">Olá, sou Matheus Santos!<br>Bem vindo a minha pagina.</h1>
 
 
 ### 👨🏻‍💻 About me:
 <li>💻 I'm Front End Developer
-<li>🚀 Fullstack development student at DevClub.
-<li>🌱 I'm currently delving into JavaScript, React and Node.
-<li>📫 How to reach me: matheussantosdev20@gmail.com
+<li>🚀 Estudante de desenvolvimento fullstack no DevClub.
+<li>🌱 Atualmente estou me aprofundando em JavaScript, ReactJS e NodeJS.
+<li>📫 Como me contatar: matheussantosdev20@gmail.com
 
 <br>
 <br>
 
-### ⚡ Technologies:
+### ⚡ Tecnologias:
 <div>
 <code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/HTML.svg"></code>
 <code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/CSS.svg"></code>
@@ -21,7 +21,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Stats:
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
 
 <div>
   <a href="https://github.com/devMatheus20"></a>
@@ -31,7 +31,7 @@
 
 <br>
 
-<p dir="auto">💬 Connect With Me<p>
+<p dir="auto">💬 Conecte-se comigo<p>
 
  <div style="margin-top:15px"> 
   <a href="https://www.linkedin.com/in/matheus-santos-souza" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
