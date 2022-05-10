@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Matheus Santos!<br>Bem vindo a minha pagina.</h1>
 
 
-### 👨🏻‍💻 About me:
+## 👨🏻‍💻 Sobre mim:
 <li>💻 I'm Front End Developer
 <li>🚀 Estudante de desenvolvimento fullstack no DevClub.
 <li>🌱 Atualmente estou me aprofundando em JavaScript, ReactJS e NodeJS.
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-### ⚡ Tecnologias:
+##⚡ Tecnologias:
 <div>
 <code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/HTML.svg"></code>
 <code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/CSS.svg"></code>
@@ -21,7 +21,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
 
 <div>
   <a href="https://github.com/devMatheus20"></a>
