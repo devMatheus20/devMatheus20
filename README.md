@@ -10,7 +10,7 @@
 <br>
 <br>
 
-##⚡ Tecnologias:
+## ⚡ Tecnologias:
 <div>
 <code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/HTML.svg"></code>
 <code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/CSS.svg"></code>
