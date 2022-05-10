@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Matheus Santos!<br>Bem vindo a minha pagina.</h1>
+<h1 align="center">Olá, sou o Matheus Santos!<br>Bem vindo a minha pagina.</h1>
 
 
 ### 👨🏻‍💻 About me:
