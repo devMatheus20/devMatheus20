@@ -2,7 +2,7 @@
 
 
 ## 👨🏻‍💻 Sobre mim:
-<li>💻 I'm Front End Developer
+<li>💻  Sou Desenvolvedor Front-End
 <li>🚀 Estudante de desenvolvimento fullstack no DevClub.
 <li>🌱 Atualmente estou me aprofundando em JavaScript, ReactJS e NodeJS.
 <li>📫 Como me contatar: matheussantosdev20@gmail.com
