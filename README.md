@@ -12,11 +12,15 @@
 
 ## ⚡ Tecnologias:
 <div>
-<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/HTML.svg"></code>
-<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/CSS.svg"></code>
-<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/JS.svg"></code>
-<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/git.svg"></code>
-<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/React.svg"></code>
+<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/HTML.svg" alt="HTML"></code>
+<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/CSS.svg" alt="CSS"></code>
+<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/JS.svg" alt="Javascript"></code>
+<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/git.svg" alt="Git"></code>
+<code><img width="40" src="https://github.com/devMatheus20/devMatheus20/blob/main/imgs/React.svg" alt="ReactJS"></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled-Components"/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 </div>
 
 <br>
