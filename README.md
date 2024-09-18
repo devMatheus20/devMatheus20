@@ -2,9 +2,11 @@
 
 
 ## 👨🏻‍💻 Sobre mim:
-<li>💻  Sou Desenvolvedor Front-End
+<li>💻 Sou Desenvolvedor Full Stack
+<li>🏢 Atualmente estou trabalhando como Desenvolvedor Full Stack na Somativa.
+<li>📕 Tenho formação em Análise e Desenvolvimento de Sistemas.
 <li>🚀 Estudante de desenvolvimento fullstack no DevClub.
-<li>🌱 Atualmente estou me aprofundando em JavaScript, ReactJS e NodeJS.
+<li>🌱 Atualmente estou me aprofundando em NextJS, teste unitários e NodeJS.
 <li>📫 Como me contatar: matheussantosdev20@gmail.com
 
 <br>
