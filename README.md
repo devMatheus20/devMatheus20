@@ -29,17 +29,12 @@
 
 <div>
   <a href="https://github.com/devMatheus20"></a>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devMatheus20&show_icons=true&theme=dracula&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
 
-<p dir="auto">💬 Conecte-se comigo<p>
+<p dir="auto">💬 Conecte-se comigo!<p>
 
 <p>🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
-
-<br>
-
-![Snake animation](https://github.com/devMatheus20/devMatheus20/blob/output/github-contribution-grid-snake.svg)
  
