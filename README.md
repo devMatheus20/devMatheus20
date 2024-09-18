@@ -29,7 +29,7 @@
 
 <div>
   <a href="https://github.com/devMatheus20"></a>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus20&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
